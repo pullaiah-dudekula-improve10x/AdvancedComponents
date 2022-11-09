@@ -37,5 +37,12 @@ public class HomeActivity extends AppCompatActivity {
             Intent intent = new Intent(this, TeamActivity.class);
             startActivity(intent);
         });
+
+        Button teamMembersBtn = findViewById(R.id.team_members_btn);
+        teamMembersBtn.setOnClickListener(view -> {
+            Intent intent = new Intent(this, TeamMembersActivity.class);
+            startActivity(intent);
+
+        });
     }
 }

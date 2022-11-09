@@ -23,7 +23,7 @@
         android:orientation="horizontal">
 
         <EditText
-            android:id="@+id/editTextTextPersonName"
+            android:id="@+id/name_txt"
             android:layout_width="224dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
@@ -32,7 +32,7 @@
             android:inputType="textPersonName" />
 
         <Button
-            android:id="@+id/button12"
+            android:id="@+id/add_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="12dp"
