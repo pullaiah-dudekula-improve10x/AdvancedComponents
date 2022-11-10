@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_contact.xml" value="0.25" />
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_date_of_birth.xml" value="0.25" />
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_location.xml" value="0.2359375" />
@@ -10,6 +11,7 @@
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_team.xml" value="0.25" />
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_team_list.xml" value="0.25" />
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_team_members.xml" value="0.25" />
+        <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/contacts_item.xml" value="0.25" />
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/dragdown.xml" value="0.25" />
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/dropdown_item.xml" value="0.25" />
         <entry key="..\:/Users/d pullaiah/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/months_item.xml" value="0.25" />
